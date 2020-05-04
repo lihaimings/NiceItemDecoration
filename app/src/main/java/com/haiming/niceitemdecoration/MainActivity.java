@@ -14,7 +14,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.haiming.niceitemdecoration.decoration.NiceItemDecoration;
-import com.haiming.niceitemdecoration.two.SpacesItemDecoration;
 
 import java.util.ArrayList;
 import java.util.List;
