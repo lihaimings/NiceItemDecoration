@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/linear_vertical"
+        android:title="Linear垂直"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/linear_horizontal"
+        android:title="Linear水平"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/grid_vertical"
+        android:orderInCategory="100"
+        android:title="Grid垂直"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/grid_vertical2"
+        android:orderInCategory="100"
+        android:title="Grid不规则垂直"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/grid_horizontal"
+        android:orderInCategory="100"
+        android:title="Grid水平"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/StaggeredGrid_vertical"
+        android:orderInCategory="100"
+        android:title="StaggeredGrid垂直"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/StaggeredGrid_horizontal"
+        android:orderInCategory="100"
+        android:title="StaggeredGrid水平"
+        app:showAsAction="never" />
+
+</menu>
